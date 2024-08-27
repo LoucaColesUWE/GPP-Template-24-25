@@ -12,8 +12,8 @@
 			]
 		},
 		{
-			"Name": "CommonUI",
-			"Enabled": true
+			"Name": "GameplayTagsEditor",
+			"Enabled": false
 		}
 	]
 }
